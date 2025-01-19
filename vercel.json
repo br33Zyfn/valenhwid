@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/download/VALEN V2.2.rar", "dest": "/VALEN V2.2.rar" }
+  ]
+}
